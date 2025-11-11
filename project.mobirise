@@ -50,7 +50,7 @@
         "url": "https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 434,
+    "uniqCompNum": 443,
     "versionPublish": "6.1.4",
     "imageResize": true,
     "chatbutton": {},
@@ -8841,7 +8841,7 @@
           },
           "_name": "timeline02",
           "_sourceTheme": "startm5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"timeline02\" group=\"News\">\n  <mbr-parameters>\n    <header>Size</header>\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n    <input type=\"checkbox\" name=\"reverseContent\" title=\"Reverse\">\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n    <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"8\" value=\"7\" step=\"1\">\n    <header>Show/Hide</header>\n    <input type=\"checkbox\" title=\"Title\" name=\"showMainTitle\">\n    <input type=\"checkbox\" title=\"Subtitle\" name=\"showMainSubtitle\">\n    <input type=\"checkbox\" title=\"Event\" name=\"showTitle\" checked>\n    <input type=\"checkbox\" title=\"Date\" name=\"showSubtitle\" checked>\n    <header>Background</header>\n    <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#0052ff\">\n  </mbr-parameters>\n  <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n    <div class=\"row justify-content-center\">\n      <div class=\"col-12 mb-5 content-head\" mbr-if=\"showMainTitle || showMainSubtitle\">\n        <h3 class=\"mbr-section-title mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-2\" mbr-if=\"showMainTitle\" data-app-selector=\".mbr-section-title\"><b>Utilizar o Catálogo</b></h3>\n        <h5 class=\"mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-4\" mbr-theme-style=\"display-7\" mbr-if=\"showMainSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n          Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h5>\n      </div>\n    </div>\n    <div class=\"row justify-content-center item features-without-image active\">\n      <div class=\"col-12 col-lg\">\n        <p class=\"mbr-card-subtitle mbr-fonts-style mt-0 mb-2\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-card-subtitle\" mbr-theme-style=\"display-7\">Novo 1.4</p>\n        <h5 class=\"mbr-card-title mbr-fonts-style mt-0 mb-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-card-title\" mbr-theme-style=\"display-5\"><b>3° Seu Carrinho</b></h5>\n        <p class=\"mbr-text mbr-fonts-style mt-0\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">Após configurar um produto e clicar em Salvar, o mesmo produto será adicionado ao seu carrinho.&nbsp;<br><br>Clicando no botão do carrinho, podemos ver todos os itens que temos adicionados, caso não tenha nenhum item, uma mensagem irá aparecer dizendo que o carrinho está vazio.</p>\n      </div>\n      <div class=\"col-md-12 col-lg-{{textWidth}} item-wrapper \">\n        <div class=\"image-wrapper mb-5\">\n          <img src=\"@PROJECT_PATH@/assets/images/carrinho.gif\" alt=\"Mobirise Website Builder\">\n        </div>\n      </div>\n    </div>\n    \n  </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"timeline02\" group=\"News\">\n  <mbr-parameters>\n    <header>Size</header>\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n    <input type=\"checkbox\" name=\"reverseContent\" title=\"Reverse\">\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n    <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"8\" value=\"7\" step=\"1\">\n    <header>Show/Hide</header>\n    <input type=\"checkbox\" title=\"Title\" name=\"showMainTitle\">\n    <input type=\"checkbox\" title=\"Subtitle\" name=\"showMainSubtitle\">\n    <input type=\"checkbox\" title=\"Event\" name=\"showTitle\" checked>\n    <input type=\"checkbox\" title=\"Date\" name=\"showSubtitle\" checked>\n    <header>Background</header>\n    <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#0052ff\">\n  </mbr-parameters>\n  <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n    <div class=\"row justify-content-center\">\n      <div class=\"col-12 mb-5 content-head\" mbr-if=\"showMainTitle || showMainSubtitle\">\n        <h3 class=\"mbr-section-title mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-2\" mbr-if=\"showMainTitle\" data-app-selector=\".mbr-section-title\"><b>Utilizar o Catálogo</b></h3>\n        <h5 class=\"mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-4\" mbr-theme-style=\"display-7\" mbr-if=\"showMainSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n          Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h5>\n      </div>\n    </div>\n    <div class=\"row justify-content-center item features-without-image active\">\n      <div class=\"col-12 col-lg\">\n        <p class=\"mbr-card-subtitle mbr-fonts-style mt-0 mb-2\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-card-subtitle\" mbr-theme-style=\"display-7\">Novo 1.4</p>\n        <h5 class=\"mbr-card-title mbr-fonts-style mt-0 mb-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-card-title\" mbr-theme-style=\"display-5\"><b>4° Seu Carrinho</b></h5>\n        <p class=\"mbr-text mbr-fonts-style mt-0\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">Após configurar um produto e clicar em Salvar, o mesmo produto será adicionado ao seu carrinho.&nbsp;<br><br>Clicando no botão do carrinho, podemos ver todos os itens que temos adicionados, caso não tenha nenhum item, uma mensagem irá aparecer dizendo que o carrinho está vazio.</p>\n      </div>\n      <div class=\"col-md-12 col-lg-{{textWidth}} item-wrapper \">\n        <div class=\"image-wrapper mb-5\">\n          <img src=\"@PROJECT_PATH@/assets/images/carrinho.gif\" alt=\"Mobirise Website Builder\">\n        </div>\n      </div>\n    </div>\n    \n  </div>\n</section>",
           "_isUserblock": true,
           "_anchor": "timeline02-9x",
           "_cid": "v1HvFaxLOK",
@@ -12921,7 +12921,7 @@
           },
           "_name": "article11",
           "_sourceTheme": "startm5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"article11\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n       <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"4\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" step=\"1\" value=\"10\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#0052ff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">        \n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\">\n    </div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center mt-0 mb-0\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\">\n                <b>Itens</b></h3>\n                <h4 class=\"mbr-section-subtitle align-center mbr-fonts-style mt-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-7\">Existem duas formas diferentes de cadastrar os itens.\n<div>Você pode fazer isso diretamente pelo site, clicando em <b>Cadastrar Item</b>, ou clicar em <b>Exportar todos os itens</b> e editá-los em uma planilha usando o Excel.</div></h4>\n                <div class=\"mbr-section-btn align-center mt-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-secondary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">\n                        Learn more\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"article11\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n       <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"4\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" step=\"1\" value=\"10\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#0052ff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">        \n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\">\n    </div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center mt-0 mb-0\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\">\n                <b>Itens</b></h3>\n                <h4 class=\"mbr-section-subtitle align-center mbr-fonts-style mt-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-7\">Existem duas formas diferentes de cadastrar os itens.\n<div>Você pode fazer isso diretamente pelo site, clicando em <b>Cadastrar Item</b>, ou clicar em <b>Exportar todos os itens</b> e editá-los em um aplicativo de planilhas (excel, Google Sheets...).</div></h4>\n                <div class=\"mbr-section-btn align-center mt-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-secondary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">\n                        Learn more\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "article11-bz",
           "_isUserblock": true,
           "_cid": "v1TFohcBFG",
@@ -12964,10 +12964,101 @@
           },
           "_name": "image01",
           "_sourceTheme": "startm5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"image01\" group=\"Image & Video\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n  <mbr-parameters>\n    <header>Size</header>\n    <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n    <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"12\" step=\"1\" value=\"12\">\n    <header>Show/Hide</header>\n    <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n    <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n    <header>Background</header>\n    <fieldset type=\"background\" name=\"bg\" parallax>\n      <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n      <input type=\"color\" title=\"Color\" value=\"#0052ff\" selected>\n      <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n    </fieldset>\n    <header condition=\"bg.type === 'video'\">Fallback Image</header>\n    <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n    <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n    <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n    <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n  </mbr-parameters>\n\n  <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n  <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\"></div>\n\n  <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n    <div class=\"row justify-content-center\">\n      <div class=\"col-12 col-lg-{{textWidth}}\">\n        <div class=\"image-wrapper mb-4\">\n          <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/captura20de20tela202025-11-0720170734-1861x355.png\" alt=\"Mobirise Website Builder\">\n        </div>\n        <h4 class=\"mbr-description mbr-fonts-style mb-3 align-center\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-description\">\n          <b>Stitching dreams, one thread at a time.</b>\n        </h4>\n        <p class=\"mbr-description mbr-fonts-style mb-0 align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-description\">\n          Unleash your creativity and sew your way to endless possibilities.\n        </p>\n      </div>\n    </div>\n  </div>\n</section>",
-          "_anchor": "image01-c0",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"image01\" group=\"Image & Video\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n  <mbr-parameters>\n    <header>Size</header>\n    <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n    <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"12\" step=\"1\" value=\"12\">\n    <header>Show/Hide</header>\n    <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n    <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n    <header>Background</header>\n    <fieldset type=\"background\" name=\"bg\" parallax>\n      <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n      <input type=\"color\" title=\"Color\" value=\"#0052ff\" selected>\n      <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n    </fieldset>\n    <header condition=\"bg.type === 'video'\">Fallback Image</header>\n    <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n    <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n    <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n    <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n  </mbr-parameters>\n\n  <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n  <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\"></div>\n\n  <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n    <div class=\"row justify-content-center\">\n      <div class=\"col-12 col-lg-{{textWidth}}\">\n        <div class=\"image-wrapper mb-4\">\n          <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/captura20de20tela202025-11-1120140550-1892x366.png\" alt=\"Mobirise Website Builder\">\n        </div>\n        <h4 class=\"mbr-description mbr-fonts-style mb-3 align-center\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-description\">\n          <b>Stitching dreams, one thread at a time.</b>\n        </h4>\n        <p class=\"mbr-description mbr-fonts-style mb-0 align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-description\">\n          Unleash your creativity and sew your way to endless possibilities.\n        </p>\n      </div>\n    </div>\n  </div>\n</section>",
+          "_anchor": "image01-c3",
           "_isUserblock": true,
-          "_cid": "v1TFEyYFUJ",
+          "_cid": "v2gk05TZri",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "justify"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff",
+              "text-align": "justify"
+            }
+          },
+          "_name": "article11",
+          "_sourceTheme": "startm5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"article11\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n       <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" step=\"1\" value=\"10\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#0052ff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">        \n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\">\n    </div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center mt-0 mb-0\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-5\">\n                <b>Cadastrar pelo Site</b><br></h3>\n                <h4 class=\"mbr-section-subtitle align-center mbr-fonts-style mt-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-7\">Clicando em \"Cadastrar Item\" um nova janela abre para você cadastrar o item pelo site.</h4>\n                <div class=\"mbr-section-btn align-center mt-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-secondary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">\n                        Learn more\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "article11-c2",
+          "_isUserblock": true,
+          "_cid": "v2gjbVO61H",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            ".row": {
+              "flex-direction": "row-reverse"
+            }
+          },
+          "_name": "image01",
+          "_sourceTheme": "startm5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"image01\" group=\"Image & Video\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n  <mbr-parameters>\n    <header>Size</header>\n    <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n    <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"12\" step=\"1\" value=\"11\">\n    <header>Show/Hide</header>\n    <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n    <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n    <header>Background</header>\n    <fieldset type=\"background\" name=\"bg\" parallax>\n      <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n      <input type=\"color\" title=\"Color\" value=\"#0052ff\" selected>\n      <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n    </fieldset>\n    <header condition=\"bg.type === 'video'\">Fallback Image</header>\n    <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n    <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n    <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n    <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n  </mbr-parameters>\n\n  <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n  <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\"></div>\n\n  <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n    <div class=\"row justify-content-center\">\n      <div class=\"col-12 col-lg-{{textWidth}}\">\n        <div class=\"image-wrapper mb-4\">\n          <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/itens-site-1892x366.png\" alt=\"Mobirise Website Builder\">\n        </div>\n        <h4 class=\"mbr-description mbr-fonts-style mb-3 align-center\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-description\">\n          <b>Stitching dreams, one thread at a time.</b>\n        </h4>\n        <p class=\"mbr-description mbr-fonts-style mb-0 align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-description\">\n          Unleash your creativity and sew your way to endless possibilities.\n        </p>\n      </div>\n    </div>\n  </div>\n</section>",
+          "_isUserblock": true,
+          "_anchor": "image01-c4",
+          "_cid": "v2gkzDppaY",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -13020,7 +13111,7 @@
           },
           "_name": "timeline02",
           "_sourceTheme": "startm5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"timeline02\" group=\"News\">\n  <mbr-parameters>\n    <header>Size</header>\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n    <input type=\"checkbox\" name=\"reverseContent\" title=\"Reverse\">\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n    <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"8\" value=\"7\" step=\"1\">\n    <header>Show/Hide</header>\n    <input type=\"checkbox\" title=\"Title\" name=\"showMainTitle\">\n    <input type=\"checkbox\" title=\"Subtitle\" name=\"showMainSubtitle\">\n    <input type=\"checkbox\" title=\"Event\" name=\"showTitle\" checked>\n    <input type=\"checkbox\" title=\"Date\" name=\"showSubtitle\" checked>\n    <header>Background</header>\n    <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#0052ff\">\n  </mbr-parameters>\n  <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n    <div class=\"row justify-content-center\">\n      <div class=\"col-12 mb-5 content-head\" mbr-if=\"showMainTitle || showMainSubtitle\">\n        <h3 class=\"mbr-section-title mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-2\" mbr-if=\"showMainTitle\" data-app-selector=\".mbr-section-title\"><b>Criar um Catálogo</b></h3>\n        <h5 class=\"mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-4\" mbr-theme-style=\"display-7\" mbr-if=\"showMainSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n          Desenvolver um catálogo exige um pouco mais de esforço, por isso agora vamos detalhar somente as partes mais importantes do processo</h5>\n      </div>\n    </div>\n    <div class=\"row justify-content-center item features-without-image active\">\n      <div class=\"col-12 col-lg\">\n        <p class=\"mbr-card-subtitle mbr-fonts-style mt-0 mb-2\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-card-subtitle\" mbr-theme-style=\"display-7\">Itens 1.0</p>\n        <h5 class=\"mbr-card-title mbr-fonts-style mt-0 mb-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-card-title\" mbr-theme-style=\"display-5\">\n          <b>Cadastrar pelo Site</b><b><br></b></h5>\n        <p class=\"mbr-text mbr-fonts-style mt-0\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">1° Clique em<b> Cadastrar Item</b><br>2° Defina se o item está <b>ativo</b>, ou não, no catálogo<br>3° Digite o <b>código</b> de venda do Item<br>4° Digite a <b>descrição</b> do Item<br>5° Digite a <b>Largura, Altura, e Profundidade</b> do Item<br>6° Selecione a <b>Categoria</b> do Item <br>(Clique aqui para aprender a cadastrar novas Categorias)<br>7° Defina a <b>Unidade de Medida</b> (Ex.: UN, BR, ML, M2...)<br>8° Digite o <b>preço</b> do item<br>9° Digite o <b>peso</b> do item<br>10° Digite o <b>código do ERP</b><br>11° Adicione uma <b>Imagem</b> para o Item<br>12° Clique em <b>Salvar</b><br><br>As demais opções são para propósitos específicos. <br>Não é possível salvar dois itens com o mesmo código.<br><br><br></p>\n      </div>\n      <div class=\"col-md-12 col-lg-{{textWidth}} item-wrapper \">\n        <div class=\"image-wrapper mb-5\">\n          <img src=\"@PROJECT_PATH@/assets/images/captura-de-tela-2025-10-02-133427-1476x760.png\" alt=\"Mobirise Website Builder\" data-slide-to=\"1\" data-bs-slide-to=\"2\">\n        </div>\n      </div>\n    </div><div class=\"row justify-content-center item features-without-image\">\n      <div class=\"col-12 col-lg\">\n        <p class=\"mbr-card-subtitle mbr-fonts-style mt-0 mb-2\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-card-subtitle\" mbr-theme-style=\"display-7\">Itens 1.1</p>\n        <h5 class=\"mbr-card-title mbr-fonts-style mt-0 mb-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-card-title\" mbr-theme-style=\"display-5\">\n          <b>Cadastrar por Planilha</b><b><br></b></h5>\n        <p class=\"mbr-text mbr-fonts-style mt-0\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">1° Clique em<b> Exportar todos os Itens</b><br>2° Clique com o <b>botão direito do mouse</b> e selecione a opção \"<b>Salvar como...</b>\"<br>3° <b>Importe</b> o documento para o editor de planilhas de sua preferência<br>4° Digite as informações do item, conforme requisitado pelas colunas<br>5° Nem todos as colunas precisam ser preenchidas, a única realmente necessária é o <b>COD </b>(Código do Item)<br><br>As demais opções são para propósitos específicos.\n<br>Não é possível salvar dois itens com o mesmo código.<br><br></p>\n      </div>\n      <div class=\"col-md-12 col-lg-{{textWidth}} item-wrapper \">\n        <div class=\"image-wrapper mb-5\">\n          <img src=\"@PROJECT_PATH@/assets/images/captura20de20tela202025-10-0220143751-1476x875.png\" alt=\"Mobirise Website Builder\" data-slide-to=\"1\" data-bs-slide-to=\"2\">\n        </div>\n      </div>\n    </div>\n    \n  </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"timeline02\" group=\"News\">\n  <mbr-parameters>\n    <header>Size</header>\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n    <input type=\"checkbox\" name=\"reverseContent\" title=\"Reverse\">\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n    <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"8\" value=\"8\" step=\"1\">\n    <header>Show/Hide</header>\n    <input type=\"checkbox\" title=\"Title\" name=\"showMainTitle\">\n    <input type=\"checkbox\" title=\"Subtitle\" name=\"showMainSubtitle\">\n    <input type=\"checkbox\" title=\"Event\" name=\"showTitle\">\n    <input type=\"checkbox\" title=\"Date\" name=\"showSubtitle\">\n    <header>Background</header>\n    <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#0052ff\">\n  </mbr-parameters>\n  <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n    <div class=\"row justify-content-center\">\n      <div class=\"col-12 mb-5 content-head\" mbr-if=\"showMainTitle || showMainSubtitle\">\n        <h3 class=\"mbr-section-title mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-2\" mbr-if=\"showMainTitle\" data-app-selector=\".mbr-section-title\"><b>Criar um Catálogo</b></h3>\n        <h5 class=\"mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-4\" mbr-theme-style=\"display-7\" mbr-if=\"showMainSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n          Desenvolver um catálogo exige um pouco mais de esforço, por isso agora vamos detalhar somente as partes mais importantes do processo</h5>\n      </div>\n    </div>\n    <div class=\"row justify-content-center item features-without-image active\">\n      <div class=\"col-12 col-lg\">\n        <p class=\"mbr-card-subtitle mbr-fonts-style mt-0 mb-2\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-card-subtitle\" mbr-theme-style=\"display-7\">Itens 1.0</p>\n        <h5 class=\"mbr-card-title mbr-fonts-style mt-0 mb-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-card-title\" mbr-theme-style=\"display-5\">\n          <b>Cadastrar pelo Site</b><b><br></b></h5>\n        <p class=\"mbr-text mbr-fonts-style mt-0\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\"><b>1° Ativo</b>: Defina se o item está ativo, ou não, no catálogo<br><b>2° Codigo</b>: Digite o código<b>&nbsp;</b>de venda do Item<br><b>3° Descrição</b>: Digite a descrição do Item<br><b>4° Dimensões</b>: Digite a Largura, Altura, e Profundidade do Item. <br>No caso de perfis de alumínio, preencha assim:<br><i>&nbsp; &nbsp; <b>Largura</b>: comprimento total<br>&nbsp; &nbsp; <b>Altura</b>: Valor menor<br>&nbsp; &nbsp; <b>Profundidade</b>: Valor maior</i><i><br></i><br><b>5° Categoria</b>: Selecione a <b>Categoria</b> do Item <br><b><a href=\"Cadastro.html#article11-6c\" class=\"text-white\"><i>(Clique para aprender a cadastrar Categorias)</i></a></b><b><a href=\"Cadastro.html#article11-6c\" class=\"text-white\"><i><br></i></a></b><br><b>6° Unidade de Medida</b>: Defina a Unidade de Medida <br>&nbsp; &nbsp; Ex.: UN, BR, ML, M2...<br><b>7°&nbsp; Preço</b>: Digite o preço do item<br><b>8° Peso</b>: Digite o peso do item<br><b>9° Codigo Busca</b>: Digite um codigo de busca alternativo<br><b>10° Código do ERP</b>: Digite o código do ERP<br><b>11° Imagem</b>: Adicione uma Imagem para o Item<br><b>12° Perfil</b>: Caso esteja trabalhando com perfis, é possível digitar pontos (coordenadas) para desenhar este perfil em 3D.<br><b>13° LOG</b>: Verificar todas alterações feitas neste item.<br><b>14° Salvar</b>: Salvar este Item.<br><br>Não é possível salvar dois itens com o mesmo código.<br></p>\n      </div>\n      <div class=\"col-md-12 col-lg-{{textWidth}} item-wrapper \">\n        <div class=\"image-wrapper mb-5\">\n          <img src=\"@PROJECT_PATH@/assets/images/itens-site-cadastro-1-1476x733.png\" alt=\"Mobirise Website Builder\" data-slide-to=\"1\" data-bs-slide-to=\"2\">\n        </div>\n      </div>\n    </div>\n    \n  </div>\n</section>",
           "_isUserblock": true,
           "_cid": "v0ieUlADQO",
           "_anchor": "timeline02-3u",
@@ -13032,20 +13123,15 @@
         {
           "alias": false,
           "_styles": {
-            "display": "flex",
             "& when not (@fullScreen)": {
               "padding-top": "(@paddingTop * 1rem)",
               "padding-bottom": "(@paddingBottom * 1rem)"
             },
-            "& when (@bg-type = \"color\")": {
+            "& when (@bg-type = 'color')": {
               "background-color": "@bg-value"
             },
-            "& when (@bg-type = \"image\")": {
-              "background-image": "url(@bg-value)",
-              ".mbr-overlay": {
-                "background-color": "@overlayColor",
-                "opacity": "@overlayOpacity"
-              }
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
             },
             ".mbr-fallback-image.disabled": {
               "display": "none"
@@ -13058,52 +13144,262 @@
               "height": "100%",
               "position": "absolute",
               "top": "0",
-              "& when (@bg-type = \"video\")": {
+              "& when (@bg-type = 'video')": {
                 "background-image": "url(@fallBackImage)"
               }
             },
-            ".content-wrap": {
-              "padding": "5rem 1rem",
-              "@media (min-width: 992px)": {
-                "padding": "5rem 3rem"
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "justify"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff",
+              "text-align": "justify"
+            }
+          },
+          "_name": "article11",
+          "_sourceTheme": "startm5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"article11\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n       <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" step=\"1\" value=\"10\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#0052ff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">        \n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\">\n    </div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center mt-0 mb-0\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-5\">\n                <b>Cadastrar por Planilha</b><br></h3>\n                <h4 class=\"mbr-section-subtitle align-center mbr-fonts-style mt-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-7\"><b><u>IMPORTANTE</u></b>: Não será possível importar o arquivo para o site caso ele utilize \"<b>.</b>\" ou \"<b>,</b>\" na coluna de <b>Largura</b>, <b>Altura</b> ou&nbsp;<b>Profundidade</b></h4>\n                <div class=\"mbr-section-btn align-center mt-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-secondary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">\n                        Learn more\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_anchor": "article11-c5",
+          "_cid": "v2guUxjoos",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
               }
             },
-            "@media (min-width: 768px)": {
-              "align-items": "~\"@{verticalAlign}\"",
+            ".row": {
+              "flex-direction": "row-reverse"
+            }
+          },
+          "_name": "image01",
+          "_sourceTheme": "startm5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"image01\" group=\"Image & Video\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n  <mbr-parameters>\n    <header>Size</header>\n    <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n    <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"12\" step=\"1\" value=\"11\">\n    <header>Show/Hide</header>\n    <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n    <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n    <header>Background</header>\n    <fieldset type=\"background\" name=\"bg\" parallax>\n      <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n      <input type=\"color\" title=\"Color\" value=\"#0052ff\" selected>\n      <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n    </fieldset>\n    <header condition=\"bg.type === 'video'\">Fallback Image</header>\n    <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n    <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n    <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n    <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n  </mbr-parameters>\n\n  <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n  <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\"></div>\n\n  <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n    <div class=\"row justify-content-center\">\n      <div class=\"col-12 col-lg-{{textWidth}}\">\n        <div class=\"image-wrapper mb-4\">\n          <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/itens-site-1892x366.png\" alt=\"Mobirise Website Builder\">\n        </div>\n        <h4 class=\"mbr-description mbr-fonts-style mb-3 align-center\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-description\">\n          <b>Stitching dreams, one thread at a time.</b>\n        </h4>\n        <p class=\"mbr-description mbr-fonts-style mb-0 align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-description\">\n          Unleash your creativity and sew your way to endless possibilities.\n        </p>\n      </div>\n    </div>\n  </div>\n</section>",
+          "_isUserblock": true,
+          "_anchor": "image01-c7",
+          "_cid": "v2gxlULRRT",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor",
+            "& when (@reverseContent)": {
               ".row": {
-                "justify-content": "~\"@{horizontalAlign}\""
+                "flex-direction": "row-reverse"
               }
             },
-            "@media (max-width: 991px) and (min-width: 768px)": {
-              ".content-wrap": {
-                "min-width": "50%"
-              }
-            },
-            "@media (max-width: 767px)": {
-              "-webkit-align-items": "center",
-              "align-items": "center",
-              ".mbr-row": {
-                "-webkit-justify-content": "center",
-                "justify-content": "center"
+            ".mbr-text": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "margin-bottom": "2em",
+              "@media (max-width: 992px)": {
+                "margin-bottom": "1.5rem"
               },
-              ".content-wrap": {
-                "width": "100%"
+              "@media (max-width: 767px)": {
+                "margin-bottom": "1rem"
               }
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "text-align": "center"
             },
             ".mbr-section-title": {
               "text-align": "center",
               "color": "#0052ff"
             },
-            ".mbr-text, .mbr-section-btn": {
-              "text-align": "center",
+            ".content-head": {
+              "max-width": "800px"
+            },
+            ".mbr-card-subtitle": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            ".mbr-card-title": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            ".image-wrapper img": {
+              "width": "100%"
+            }
+          },
+          "_name": "timeline02",
+          "_sourceTheme": "startm5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"timeline02\" group=\"News\">\n  <mbr-parameters>\n    <header>Size</header>\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n    <input type=\"checkbox\" name=\"reverseContent\" title=\"Reverse\">\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n    <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"8\" value=\"8\" step=\"1\">\n    <header>Show/Hide</header>\n    <input type=\"checkbox\" title=\"Title\" name=\"showMainTitle\">\n    <input type=\"checkbox\" title=\"Subtitle\" name=\"showMainSubtitle\">\n    <input type=\"checkbox\" title=\"Event\" name=\"showTitle\">\n    <input type=\"checkbox\" title=\"Date\" name=\"showSubtitle\">\n    <header>Background</header>\n    <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#0052ff\">\n  </mbr-parameters>\n  <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n    <div class=\"row justify-content-center\">\n      <div class=\"col-12 mb-5 content-head\" mbr-if=\"showMainTitle || showMainSubtitle\">\n        <h3 class=\"mbr-section-title mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-2\" mbr-if=\"showMainTitle\" data-app-selector=\".mbr-section-title\"><b>Criar um Catálogo</b></h3>\n        <h5 class=\"mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-4\" mbr-theme-style=\"display-7\" mbr-if=\"showMainSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n          Desenvolver um catálogo exige um pouco mais de esforço, por isso agora vamos detalhar somente as partes mais importantes do processo</h5>\n      </div>\n    </div>\n    <div class=\"row justify-content-center item features-without-image active\">\n      <div class=\"col-12 col-lg\">\n        <p class=\"mbr-card-subtitle mbr-fonts-style mt-0 mb-2\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-card-subtitle\" mbr-theme-style=\"display-7\">Itens 1.1</p>\n        <h5 class=\"mbr-card-title mbr-fonts-style mt-0 mb-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-card-title\" mbr-theme-style=\"display-5\">\n          <b>Cadastrar por Planilha</b><b><br></b></h5>\n        <p class=\"mbr-text mbr-fonts-style mt-0\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">1° Clique em<b> Exportar todos os Itens</b><br>2° Clique com o <b>botão direito do mouse</b> e selecione a opção \"<b>Salvar como...</b>\"<br>3° <b>Importe</b> o documento para o editor de planilhas de sua preferência<br>4° Digite as informações do item, conforme requisitado pelas colunas<br>5° Nem todos as colunas precisam ser preenchidas, a única realmente necessária é o <b>COD </b>(Código do Item), <b>PREÇO </b>e <b>PESO</b>,&nbsp;mas é encorajado digitar máximo possível.<br><br>Após terminar, faça o seguinte:<br><b>1°</b> Exporte em formato .TSV<br><b>2°</b> Altere o arquivo para o formato .TXT<br><b>3°</b>&nbsp;Clique no botão vermelho \"<b>Importar Itens</b>\"<br><br>Não é possível salvar dois itens com o mesmo código.<br><br></p>\n      </div>\n      <div class=\"col-md-12 col-lg-{{textWidth}} item-wrapper \">\n        <div class=\"image-wrapper mb-5\">\n          <img src=\"@PROJECT_PATH@/assets/images/itens-planilha.gif\" alt=\"Mobirise Website Builder\" data-slide-to=\"1\" data-bs-slide-to=\"2\">\n        </div>\n      </div>\n    </div>\n    \n  </div>\n</section>",
+          "_isUserblock": true,
+          "_anchor": "timeline02-c6",
+          "_cid": "v2gv9pCpXK",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            ".mbr-section-title": {
+              "color": "#0052ff"
+            },
+            ".mbr-section-subtitle": {
               "color": "#0052ff"
             }
           },
-          "_name": "header09",
+          "_name": "article11",
           "_sourceTheme": "startm5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"header09 startm5\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen, 'mbr-parallax-background': bg.parallax}\">\t\n    <mbr-parameters>\n\t\t<header>Size</header>\n\t\t<input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n\t\t<input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\t\t<input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"12\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n\t\t<input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"12\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n\t\t<input type=\"range\" inline name=\"contentWidth\" title=\"Content Width\" min=\"4\" max=\"12\" step=\"1\" value=\"12\">\n\t\t<header>Show / Hide</header>\n\t\t<input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n\t\t<input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n\t\t<input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n\t\t<select title=\"Vertical Align\" name=\"verticalAlign\" condition=\"fullScreen\">\n\t\t\t<option value=\"flex-start\">Top</option>\n\t\t\t<option value=\"center\" selected>Center</option>\n\t\t\t<option value=\"flex-end\">Bottom</option>\n\t\t</select>\n\t\t<select title=\"Horizontal Align\" name=\"horizontalAlign\">\n\t\t\t<option value=\"flex-start\">Left</option>\n\t\t\t<option value=\"center\" selected>Center</option>\n\t\t\t<option value=\"flex-end\">Right</option>\n\t\t</select>\n\t\t<header>Background</header>\n\t\t<fieldset type=\"background\" name=\"bg\" parallax>\n\t\t\t<input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n\t\t\t<input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n\t\t\t<input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n\t\t</fieldset>\n\t\t<header condition=\"bg.type === 'video'\">Fallback Image</header>\n\t\t<input type=\"image\" title=\"Fallback Image\" value=\"../_images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#f92c50\" condition=\"overlay && bg.type !== 'color'\">\n\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n\t</mbr-parameters>\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\t<div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n\t<div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n\t\t<div class=\"row\">\n\t\t\t<div class=\"content-wrap col-12 col-md-{{contentWidth}}\">\n\t\t\t\t<h1 class=\"mbr-section-title mbr-fonts-style mbr-white mb-4\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">\n\t\t\t\t\t<b>Características</b>\n\t\t\t\t</h1>\n\t\t\t\t<h2 class=\"mbr-section-title mbr-fonts-style mbr-white mb-4\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\" mbr-if=\"showSubtitle\">\n\t\t\t\t\tHeader Subtitle\n\t\t\t\t</h2>\n\t\t\t\t<p class=\"mbr-fonts-style mbr-text mbr-white mb-4\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">As características são as \"perguntas\" que o usuário precisa responder quando configura um produto.<br>Ex: Tipo de Perfil, Cor do Perfil, Tipo de Dobradiça...<br><br>Para criar uma nova característica, clique em <b>Cadastrar nova característica</b>.<br></p>\n\t\t\t\t<div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-7\">\n\t\t\t\t\t<a class=\"btn btn-danger\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">\n\t\t\t\t\t\tLearn more\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
-          "_cid": "v0ieUlS4D9",
-          "_anchor": "header09-3v",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"article11\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n       <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"4\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" step=\"1\" value=\"10\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">        \n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\">\n    </div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center mt-0 mb-0\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\">\n                <b>Características</b></h3>\n                <h4 class=\"mbr-section-subtitle align-center mbr-fonts-style mt-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-7\">As características são as \"perguntas\" que o usuário precisa responder quando configura um produto.\n<div>Ex: Tipo de Perfil, Cor do Perfil, Tipo de Dobradiça...</div><div>\n</div></h4>\n                <div class=\"mbr-section-btn align-center mt-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-secondary\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">\n                        Learn more\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "article11-c9",
+          "_isUserblock": true,
+          "_cid": "v2gBkGUKqD",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            ".row": {
+              "flex-direction": "row-reverse"
+            },
+            ".mbr-description": {
+              "color": "#0052ff"
+            }
+          },
+          "_name": "image01",
+          "_sourceTheme": "startm5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"image01\" group=\"Image & Video\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n  <mbr-parameters>\n    <header>Size</header>\n    <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n    <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"12\" step=\"1\" value=\"12\">\n    <header>Show/Hide</header>\n    <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n    <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n    <header>Background</header>\n    <fieldset type=\"background\" name=\"bg\" parallax>\n      <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n      <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n      <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n    </fieldset>\n    <header condition=\"bg.type === 'video'\">Fallback Image</header>\n    <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n    <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n    <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n    <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n  </mbr-parameters>\n\n  <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n  <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\"></div>\n\n  <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n    <div class=\"row justify-content-center\">\n      <div class=\"col-12 col-lg-{{textWidth}}\">\n        <div class=\"image-wrapper mb-4\">\n          <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/caracteristicas-1892x927.png\" alt=\"Mobirise Website Builder\">\n        </div>\n        <h4 class=\"mbr-description mbr-fonts-style mb-3 align-center\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-description\">\n          <b>Stitching dreams, one thread at a time.</b>\n        </h4>\n        <p class=\"mbr-description mbr-fonts-style mb-0 align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-description\"><i>\n          (Exemplo de características)</i><br><br>Para criar uma nova característica, clique em <b>Cadastrar nova característica</b>.<br></p>\n      </div>\n    </div>\n  </div>\n</section>",
+          "_anchor": "image01-c8",
+          "_isUserblock": true,
+          "_cid": "v2gBdcLBol",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            ".row": {
+              "flex-direction": "row-reverse"
+            },
+            ".mbr-description": {
+              "color": "#0052ff"
+            }
+          },
+          "_name": "image01",
+          "_sourceTheme": "startm5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"image01\" group=\"Image & Video\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n  <mbr-parameters>\n    <header>Size</header>\n    <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n    <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"12\" step=\"1\" value=\"12\">\n    <header>Show/Hide</header>\n    <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n    <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n    <header>Background</header>\n    <fieldset type=\"background\" name=\"bg\" parallax>\n      <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n      <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n      <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n    </fieldset>\n    <header condition=\"bg.type === 'video'\">Fallback Image</header>\n    <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n    <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n    <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n    <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n  </mbr-parameters>\n\n  <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n  <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\"></div>\n\n  <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n    <div class=\"row justify-content-center\">\n      <div class=\"col-12 col-lg-{{textWidth}}\">\n        <div class=\"image-wrapper mb-4\">\n          <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/caracteristicas-cadastrar-1894x403.png\" alt=\"Mobirise Website Builder\">\n        </div>\n        <h4 class=\"mbr-description mbr-fonts-style mb-3 align-center\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-description\">\n          <b>Stitching dreams, one thread at a time.</b>\n        </h4>\n        <p class=\"mbr-description mbr-fonts-style mb-0 align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-description\">\n          Unleash your creativity and sew your way to endless possibilities.\n        </p>\n      </div>\n    </div>\n  </div>\n</section>",
+          "_anchor": "image01-ca",
+          "_isUserblock": true,
+          "_cid": "v2gBIAaqNJ",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
